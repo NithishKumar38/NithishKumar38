@@ -1,12 +1,9 @@
-- 👋 Hi, I'm NITHISH KUMAR 
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning ... front end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nithish.nk04@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-NithishKumar38/NithishKumar38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Passionate Web Developer & Programmer with a strong foundation in software development.
+🌐 Areas of Interest: Web development, backend services, and database management.
+🌱 Currently Learning: Advanced front-end development (React.js), responsive UI/UX design, and performance optimization.
+🤝 Looking to Collaborate On: Open-source projects, innovative tech solutions, and real-world problem-solving applications.
+🛠 Technical Skills:
+Languages: Java, C, Python, SQL
+Web Technologies: HTML, CSS, JavaScript
+Database: MySQL
+📫 Reach Me At: nithish.nk04@gmail.com
